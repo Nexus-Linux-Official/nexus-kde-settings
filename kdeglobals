@@ -1,0 +1,7 @@
+[General]
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=none
+
+[Icons]
+Theme=Nexus-Dark
